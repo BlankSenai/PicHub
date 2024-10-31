@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Câmeras",
+    "description": "Descubra a melhor máquina fotográfica dependendo dos seus requisitos",
+    "image": "/src/assets/data/equipamentos/camera.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lentes",
+    "description": "Lentes de todos os tipos para as melhores fotos",
+    "image": "/src/assets/data/equipamentos/lente.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tripés",
+    "description": "Tenha estabilidade e liberdade para os retratos perfeitos",
+    "image": "/src/assets/data/equipamentos/tripe.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Luzes",
+    "description": "Mantenha o ambiente sempre com a melhor iluminação",
+    "image": "/src/assets/data/equipamentos/luz.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bolsas",
+    "description": "Guarde seus itens de forma segura para ensaios com conforto",
+    "image": "/src/assets/data/equipamentos/bolsa.jpg"
+  }
+]

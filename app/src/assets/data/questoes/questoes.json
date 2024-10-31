@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Minhas fotos são públicas por padrão?",
+    "answer": "Não, você pode escolher a privacidade de cada coleção no momento da criação e isso definirá a visualização das outras pessoas."
+  },
+  {
+    "id": 2,
+    "title": "Como altero minhas informações de perfil?",
+    "answer": "Vá nas configurações e acesse 'Conta' para editar o que desejar."
+  },
+  {
+    "id": 3,
+    "title": "O site está fora do ar. Quando ele voltará a funcionar?",
+    "answer": "Estamos trabalhando para resolver o problema o mais rápido possível. Tente novamente mais tarde."
+  },
+  {
+    "id": 4,
+    "title": "Os cursos são de acesso vitalício?",
+    "answer": "Sim, uma vez pago você terá acesso para sempre enquanto sua conta existir."
+  },
+  {
+    "id": 5,
+    "title": "Estou tendo problemas com login ou com pagamentos",
+    "answer": "Entre em contato diretamente com a equipe de suporte."
+  }
+]

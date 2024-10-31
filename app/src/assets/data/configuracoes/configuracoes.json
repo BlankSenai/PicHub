@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Suporte",
+    "description": "Acesse o serviço de atendimento ao cliente"
+  },
+  {
+    "id": 2,
+    "name": "Conta",
+    "description": "Editar informações da sua conta e perfil"
+  },
+  {
+    "id": 3,
+    "name": "Segurança",
+    "description": "Configurações de privacidade e segurança da conta"
+  },
+  {
+    "id": 4,
+    "name": "Preferências",
+    "description": "Idioma, aparência, arquivos..."
+  }
+]

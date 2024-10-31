@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "profile": {
+      "name": "Ruan Karlos",
+      "image": "/src/assets/data/posts/ruan.jpg"
+    },
+    "info": [
+      "Câmera tal",
+      "Lente tal",
+      "Lugar tal",
+      "Edição tal"
+    ],
+    "image": "/src/assets/data/posts/arvore.jpg",
+    "description": "avore"
+  },
+  {
+    "id": 2,
+    "profile": {
+      "name": "Eduardo Augusto Pinto",
+      "image": "/src/assets/data/posts/eduardo.jpg"
+    },
+    "info": [
+      "Câmera tal",
+      "Lente tal",
+      "Lugar tal",
+      "Edição tal"
+    ],
+    "image": "/src/assets/data/posts/mar.jpg",
+    "description": "aqua"
+  },
+  {
+    "id": 3,
+    "profile": {
+      "name": "Bagriel Pena",
+      "image": "/src/assets/data/posts/bagriel.jpg"
+    },
+    "info": [
+      "Câmera tal",
+      "Lente tal",
+      "Lugar tal",
+      "Edição tal"
+    ],
+    "image": "/src/assets/data/posts/cidade.jpg",
+    "description": "cindade"
+  }
+]

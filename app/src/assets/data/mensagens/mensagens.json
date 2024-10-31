@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Claudin",
+    "message": "Foto show de bola",
+    "date": "14:59",
+    "avatar": "/src/assets/data/mensagens/claudio.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Felipola",
+    "message": "Te vejo no evento, flw",
+    "date": "ontem",
+    "avatar": "/src/assets/data/mensagens/felipe.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gusta",
+    "message": "Sim, eu uso o lightroom mesmo",
+    "date": "28/06/2024",
+    "avatar": "/src/assets/data/mensagens/gustavo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rafaela",
+    "message": "Oi",
+    "date": "02/05/2024",
+    "avatar": "/src/assets/data/mensagens/rafaela.jpg"
+  }
+]
